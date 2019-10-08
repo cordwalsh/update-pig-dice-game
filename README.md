@@ -5,8 +5,8 @@
 #### By **Tae Lee & Cord Walsh**
 
 ## Description
+Game made with javascript. Allows two users or play against a computer.
 
-Webpage that displays a list of to-do items at the users will
 
 ### Specs
 | Spec.                                                                    | Input                       | Output                                           |
